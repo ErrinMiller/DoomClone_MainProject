@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Creative/Game Projects/Unity Games/Necromancer's Curse/U5-Necromancer's
+    Curse/Assets/H&S Level 1.unity
+  isLoaded: 1
+  isActive: 1
